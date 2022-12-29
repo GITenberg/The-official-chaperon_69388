@@ -14,6 +14,9 @@ contributor:
     gutenberg_agent_id: '55214'
     url: http://www.gutenberg.org/2009/agents/55214
     wikipedia: https://en.wikipedia.org/wiki/Neysa_McMein
+covers:
+- cover_type: archival
+  image_path: 69388-h/images/cover.jpg
 creator:
   author:
     agent_name: Lincoln, Natalie Sumner
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/711
     wikipedia: https://en.wikipedia.org/wiki/Natalie_Sumner_Lincoln
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69388#The-official-chaperon
 gutenberg_issued: '2022-11-20'
 identifiers:
   gutenberg: '69388'
